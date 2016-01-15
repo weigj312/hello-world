@@ -1,4 +1,4 @@
-<?php 
-	echo '这是一个简单的测fddfsdfsdjfksdj试'
-?>  
-
+<?php
+	echo '第一个课程'
+	echo '第一个教材'
+?>
